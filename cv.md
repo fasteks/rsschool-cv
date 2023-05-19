@@ -17,7 +17,7 @@ I love programming and I want to become a professional developer!
 * Node
 
 ## Code example
-* *return the total number of smiling faces in the array*
+*return the total number of smiling faces in the array*
 * `
 function countSmileys(arr) {
   const regexp = /^[:;][-~]?[)D]$/
@@ -30,9 +30,9 @@ function countSmileys(arr) {
   const count = validArr.length
   return count
 }
-`
+`*
 ## Experience
-* *My pet projects*
+*My pet projects*
 * [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
 * [game](https://github.com/fasteks/game)
 * [todo](https://github.com/fasteks/task-manager)
