@@ -18,7 +18,8 @@ I love programming and I want to become a professional developer!
 
 ## Code example
 *return the total number of smiling faces in the array*
-`function countSmileys(arr) {
+```javascript
+function countSmileys(arr) {
   const regexp = /^[:;][-~]?[)D]$/
   const validArr = arr.filter(el => {
     if (typeof el === 'string') {
@@ -28,7 +29,8 @@ I love programming and I want to become a professional developer!
   })
   const count = validArr.length
   return count
-}`
+}
+```
 
 ## Experience
 *My pet projects*
