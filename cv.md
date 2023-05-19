@@ -17,8 +17,8 @@ I love programming and I want to become a professional developer!
 * Node
 
 ## Code example
-*return the total number of smiling faces in the array*
-`
+* *return the total number of smiling faces in the array*
+* `
 function countSmileys(arr) {
   const regexp = /^[:;][-~]?[)D]$/
   const validArr = arr.filter(el => {
@@ -32,11 +32,11 @@ function countSmileys(arr) {
 }
 `
 ## Experience
-*My pet projects*
-[e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
-[game](https://github.com/fasteks/game)
-[todo](https://github.com/fasteks/task-manager)
-[chat](https://github.com/fasteks/game)
+* *My pet projects*
+* [e-commerce](https://github.com/fasteks/week-12-task-1/tree/market-plus)
+* [game](https://github.com/fasteks/game)
+* [todo](https://github.com/fasteks/task-manager)
+* [chat](https://github.com/fasteks/game)
 
 ## Education
 **University**: Donetsk National Technical University
