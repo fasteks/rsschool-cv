@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/fasteks/rsschool-cv/blob/gh-pages/cv
