@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fasteks.github.io/rsschool-cv/cv
